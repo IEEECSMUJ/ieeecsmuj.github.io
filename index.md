@@ -9,4 +9,4 @@ layout: default
 <a href="https://www.instagram.com/ieee_csmuj">instagram.com/ieee_csmuj</a>
 ###
 ### FOLLOW US ON LINKEDIN:
-<a href="https://www.linkedin.com/company/ieee-cs-muj/">linkedin.com/ieee-cs-muj</a>
+<a href="https://www.linkedin.com/company/ieee-cs-muj/">linkedin.com/company/ieee-cs-muj</a>
