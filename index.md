@@ -6,4 +6,4 @@ layout: default
 ## (Under Development)
 
 ### FOLLOW US ON INSTAGRAM: 
-https://www.instagram.com/ieee_csmuj
+<a href="https://www.instagram.com/ieee_csmuj">instagram.com/ieee_csmuj</a>
