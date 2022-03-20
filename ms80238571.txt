@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "cs.ieeemuj.com",
-  "Id": "0116bb11-c31e-4c0f-add4-0a7e7166702a"
-}
