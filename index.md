@@ -4,7 +4,7 @@ layout: default
 
 # WEBSITE FOR IEEE CS MUJ
 ## (Under Development)
-<img src="assets/img/logo.png" alt="IEEE CS MUJ" width="250" height="250">
+<img src="ieeecsmuj.png" alt="IEEE CS MUJ" width="250" height="250">
 ### PARTICIPATE IN SEIGE:
 <a href="https://linktr.ee/ieeeseige">linktr.ee/ieeeseige</a>
 ### FOLLOW US ON INSTAGRAM: 
